@@ -2,7 +2,8 @@
 ## 🚀 About
 Make your own MTA Table Lamp for much cheaper and adjustable whitebalance based on the sun using an ESP32!
 <div style="display: flex;">
-    <img src="media/demo.gif" alt="lamp changing white balance and being switch on/off" width="1000" style="margin-right: 10px;" />
+    <img src="media/demo.gif" alt="lamp changing white balance and being switch on/off" width="500" style="margin-right: 10px;" />
+    <img src="2.jpg" alt="lamp from front" width="500" />
 </div>
 
 ## ⚙️ Hardware
